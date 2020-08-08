@@ -1,4 +1,6 @@
-# Hierarchical clustering (Not suitable larger Dataset)
+# Hierarchical clustering 
+
+### Note: Not suitable for larger Dataset - BIRCH(Balanced Iterative Reducing and Clustering Usign Hierarchies) algorithm.
 
 Before kick start with Hierarchical clustering, We should review Similarity and distance calculation (Manhattan/Euclidean/Minkowsk/Jaccard similarityCosine Similarity) & Proximity Matrix.
 
