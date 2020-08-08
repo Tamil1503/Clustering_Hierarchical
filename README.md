@@ -1,4 +1,4 @@
-# Hierarchical clustering 
+# Hierarchical clustering (Not suitable larger Dataset)
 
 Before kick start with Hierarchical clustering, We should review Similarity and distance calculation (Manhattan/Euclidean/Minkowsk/Jaccard similarityCosine Similarity) & Proximity Matrix.
 
