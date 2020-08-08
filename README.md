@@ -1,6 +1,7 @@
 # Hierarchical clustering 
 
 Before kick start with Hierarchical clustering, We should review Similarity and distance calculation (Manhattan/Euclidean/Minkowsk/Jaccard similarityCosine Similarity) & Proximity Matrix.
+
 Point to remember:
   1.Minimum distance
   2.Higher similarity
